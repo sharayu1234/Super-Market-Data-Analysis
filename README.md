@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=sns&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 
 
