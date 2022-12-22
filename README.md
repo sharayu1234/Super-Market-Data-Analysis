@@ -14,7 +14,7 @@
 
 ## ✍️ Author
 Sharayu Thosar
-* <a href="sharayu.thosar@gmail.com">Email </a>
+* <a href="sharayu.thosar@gmail.com?">Email </a>
 * <a href="https://www.linkedin.com/in/sharayu-thosar/">LinkedIn </a>
 
 
