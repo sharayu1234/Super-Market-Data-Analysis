@@ -17,6 +17,11 @@ Sharayu Thosar
 * [Email](mailto:sharayu.thosar@gmail.com)
 * <a href="https://www.linkedin.com/in/sharayu-thosar/">LinkedIn </a>
 
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!</br>
+Give a ⭐️ if you like this project!
+
 
 
 
